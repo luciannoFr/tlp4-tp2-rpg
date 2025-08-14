@@ -1,0 +1,23 @@
+{
+  "name": "tp-2",
+  "version": "1.0.0",
+  "description": "tp2",
+  "main": "rpg-class.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciannoFr/tlp4-tp2-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciannoFr/tlp4-tp2-rpg/issues"
+  },
+  "homepage": "https://github.com/luciannoFr/tlp4-tp2-rpg#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
